@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Sri Nikitha Thummanapalli",
   "logo": {
-    "dark": "/logo/logo.png",
-    "light": "/logo/logo.png"
+    "dark": "/logo.png",
+    "light": "/logo.png"
   },
   "modeToggle": { "default": "light", "isHidden": true },
   "favicon": "/favicon.svg",
@@ -22,6 +22,10 @@
   },
   "topbarLinks": [
     {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/company/mintsearch"
+    },
+    {
       "name": "X (Twitter)",
       "url": "https://x.com/sri_nikitha"
     }
@@ -34,12 +38,7 @@
   "navigation": [
     {
       "group": "",
-      "pages": ["introduction", "quickstart", "development"]
+      "pages": ["hi", "cv"]
     }
-  ],
-  "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
-  }
+  ]
 }
