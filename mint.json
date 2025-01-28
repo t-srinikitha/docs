@@ -38,7 +38,7 @@
   "navigation": [
     {
       "group": "",
-      "pages": ["fun", "work", "blog"]
+      "pages": ["aboutme", "work", "blog"]
     }
   ]
 }
